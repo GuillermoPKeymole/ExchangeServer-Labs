@@ -16,9 +16,9 @@ Exchange Admin Center (EAC) navigation
 Server backup and export operations (OVA format)
 
 📄 Files  
-📘 Lab Report – Exchange 2019 Installation (PDF)  
-📝 README.md  
-📦 Exchange2019.ova (VM export – stored locally)
+📘 Lab 02-Exchange 2019 Installation.pdf – Official lab instructions  
+📝 Lab 02 - Guillermo PK - Exchange 2019 Installation.pdf – Completed student report  
+🗃️ Exchange2019.ova – Exported VM image (stored locally, not on GitHub)
 
 👨‍💻 Author  
 Guillermo Padilla Keymole  
